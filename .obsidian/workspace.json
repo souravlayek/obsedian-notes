@@ -1,39 +1,52 @@
 {
   "main": {
-    "id": "155e581de7fafd22",
+    "id": "aa40a8115325307e",
     "type": "split",
     "children": [
       {
-        "id": "8628a60551e1df31",
+        "id": "8cbd5ea524589690",
         "type": "tabs",
         "children": [
           {
-            "id": "5ec0a26b5ce3b61d",
+            "id": "0b769e56e181a7a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Page.md",
+                "file": "Server Setup/Change Hostname of the server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "976349b73e440688",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Server Setup/Change Hostname of the server.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "03a6b33bcefb1887",
+    "id": "f26ea201a0b77831",
     "type": "split",
     "children": [
       {
-        "id": "5ec59affa9560bba",
+        "id": "608da1f5657217c6",
         "type": "tabs",
         "children": [
           {
-            "id": "80a7e744f910c396",
+            "id": "8e3343c539c24f83",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "b7dfa9b15dea4cf1",
+            "id": "044a2544fca169e7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "04586e4139fd4afc",
+            "id": "09b01f24b856b0c2",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "75cf86fcd57ad97e",
+    "id": "fd9ac948af0a1175",
     "type": "split",
     "children": [
       {
-        "id": "0128a7f30996b6bd",
+        "id": "23d1ad47c3fbdab6",
         "type": "tabs",
         "children": [
           {
-            "id": "d748095a3267ae9e",
+            "id": "ac9335f92960af80",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Page.md",
+                "file": "Server Setup/Change Hostname of the server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,19 @@
             }
           },
           {
-            "id": "fb7fe2ee8e114a38",
+            "id": "742f796ddb2934eb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Page.md",
+                "file": "Server Setup/Change Hostname of the server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "548ef76bb0daa5f1",
+            "id": "38deea75b18b080e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +133,12 @@
             }
           },
           {
-            "id": "58d6d507caf385be",
+            "id": "287338b7cfc6e492",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Page.md"
+                "file": "Server Setup/Change Hostname of the server.md"
               }
             }
           }
@@ -146,6 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ec0a26b5ce3b61d",
-  "lastOpenFiles": []
+  "active": "8e3343c539c24f83",
+  "lastOpenFiles": [
+    "Server Setup/Add user and delete user.md",
+    "Server Setup/Change Hostname of the server.md"
+  ]
 }

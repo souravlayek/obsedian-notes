@@ -1,3 +1,11 @@
+# Add user and delete user
+---
+tags: #server #self-hosted 
+Created ON: 2023-04-09 01:39
+Relates To: [[Setup a new server]]
+
+---
+
 ## Add a new user
 * Login as root by running `sudo su`
 * Run this command `adduser <username>`

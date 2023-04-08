@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8cbd5ea524589690",
+        "id": "c42f8e14fe66b808",
         "type": "tabs",
         "children": [
           {
-            "id": "0b769e56e181a7a3",
+            "id": "9f23e505c943eaf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Server Setup/Change Hostname of the server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "976349b73e440688",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Server Setup/Change Hostname of the server.md",
+                "file": "Setup Process.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200.5
   },
   "right": {
     "id": "fd9ac948af0a1175",
@@ -91,21 +78,67 @@
       {
         "id": "23d1ad47c3fbdab6",
         "type": "tabs",
+        "dimension": 37.13620488940629,
         "children": [
+          {
+            "id": "287338b7cfc6e492",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Setup Process.md"
+              }
+            }
+          },
           {
             "id": "ac9335f92960af80",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Server Setup/Change Hostname of the server.md",
-                "collapseAll": false,
+                "file": "Setup Process.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4012d1eaeb5b7576",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Setup Process.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.431770833333333,
+                  "lineSizeMultiplier": 0.814583333333333,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.2588386562181628,
+                  "close": true
+                }
               }
             }
           },
@@ -115,12 +148,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Server Setup/Change Hostname of the server.md",
+                "file": "Setup Process.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
-          },
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "58c8387c99fd1b90",
+        "type": "tabs",
+        "dimension": 31.431897555296857,
+        "children": [
           {
             "id": "38deea75b18b080e",
             "type": "leaf",
@@ -131,23 +172,27 @@
                 "useHierarchy": true
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "47b84fac75457974",
+        "type": "tabs",
+        "dimension": 31.431897555296857,
+        "children": [
           {
-            "id": "287338b7cfc6e492",
+            "id": "5d0ddec2fbc14df9",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "Server Setup/Change Hostname of the server.md"
-              }
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,9 +204,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e3343c539c24f83",
+  "active": "9f23e505c943eaf2",
   "lastOpenFiles": [
-    "Server Setup/Add user and delete user.md",
-    "Server Setup/Change Hostname of the server.md"
+    "Notes/Untitled.md",
+    "Notes/Area",
+    "Setup Process.md",
+    "Untitled.canvas",
+    "_templates/Notes.md",
+    "Notes/Change Hostname of the server.md",
+    "Notes/Add user and delete user.md",
+    "Notes/Area/Dev Ops Engineering.md",
+    "Notes/[Dev Ops Engineering.md",
+    "Notes/Setup a new server.md",
+    "Notes/Inbox.md",
+    "Notes/2023-04-16.md",
+    "Notes/Area/Business.md",
+    "Notes/Area/Developer.md",
+    "Notes/Area/Reader.md",
+    "_templates/Task.md",
+    "_templates/Resorces.md",
+    "_templates/New Project.md",
+    "Notes/Increase LVM size in ubuntu.md",
+    "Notes/Ubuntu Storage Fill up.md",
+    "_templates/New Area.md",
+    "Notes/Test.md",
+    "_templates/Test Note.md",
+    "Notes",
+    "Daily Notes/2023-04-08.md",
+    "_templates/{{date}}-{{title}}.md",
+    "_templates/Daily Note.md",
+    "_assets/Pasted image 20230408181823.png",
+    "2023-04-08.md",
+    "Daily Notes",
+    "_templates",
+    "_assets"
   ]
 }

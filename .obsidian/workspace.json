@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c42f8e14fe66b808",
+        "id": "653a0bb6e2671264",
         "type": "tabs",
         "children": [
           {
-            "id": "9f23e505c943eaf2",
+            "id": "7598cf3345a7da4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setup Process.md",
+                "file": "Daily Notes/Weekly/2023-W14.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,6 +31,7 @@
       {
         "id": "608da1f5657217c6",
         "type": "tabs",
+        "dimension": 72.5925925925926,
         "children": [
           {
             "id": "8e3343c539c24f83",
@@ -66,6 +67,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "cccd743296d6ab35",
+        "type": "tabs",
+        "dimension": 27.40740740740741,
+        "children": [
+          {
+            "id": "1b224e84f4fc0b9e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setup Process.md"
+                "file": "Daily Notes/Weekly/2023-W14.md"
               }
             }
           },
@@ -96,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setup Process.md",
+                "file": "Daily Notes/Weekly/2023-W14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Setup Process.md",
+                "file": "Daily Notes/Weekly/2023-W14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setup Process.md",
+                "file": "Daily Notes/Weekly/2023-W14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,15 +220,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9f23e505c943eaf2",
+  "active": "7598cf3345a7da4d",
   "lastOpenFiles": [
+    "Daily Notes/2023-04-08.md",
+    "Daily Notes/Weekly/2023-W14.md",
+    "Daily Notes/Weekly",
+    "Notes/Add user and delete user.md",
+    "Setup Process.md",
     "Notes/Untitled.md",
     "Notes/Area",
-    "Setup Process.md",
     "Untitled.canvas",
     "_templates/Notes.md",
     "Notes/Change Hostname of the server.md",
-    "Notes/Add user and delete user.md",
     "Notes/Area/Dev Ops Engineering.md",
     "Notes/[Dev Ops Engineering.md",
     "Notes/Setup a new server.md",
@@ -230,7 +249,6 @@
     "Notes/Test.md",
     "_templates/Test Note.md",
     "Notes",
-    "Daily Notes/2023-04-08.md",
     "_templates/{{date}}-{{title}}.md",
     "_templates/Daily Note.md",
     "_assets/Pasted image 20230408181823.png",

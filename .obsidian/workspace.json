@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "653a0bb6e2671264",
+        "id": "d1ba40e08cea89c4",
         "type": "tabs",
         "children": [
           {
-            "id": "7598cf3345a7da4d",
+            "id": "5412b749fd93685c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Weekly/2023-W14.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -101,9 +97,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Notes/Weekly/2023-W14.md"
-              }
+              "state": {}
             }
           },
           {
@@ -112,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/Weekly/2023-W14.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +122,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily Notes/Weekly/2023-W14.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -164,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Weekly/2023-W14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,14 +211,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7598cf3345a7da4d",
+  "active": "8e3343c539c24f83",
   "lastOpenFiles": [
-    "Daily Notes/2023-04-08.md",
+    "Notes/Increase LVM size in ubuntu.md",
+    "Notes/How to use Traefik.md",
+    "Notes/Reverse Proxy Configuration.md",
+    "Notes/Untitled.md",
+    "Notes/Ubuntu Storage Fill up.md",
     "Daily Notes/Weekly/2023-W14.md",
+    "Notes/Learn Obsidian.md",
+    "Notes/Plugins for Obsidian.md",
+    "Notes/Area/Reader.md",
+    "Notes/Area/Self Improvement.md",
+    "Daily Notes/2023-04-08.md",
     "Daily Notes/Weekly",
     "Notes/Add user and delete user.md",
     "Setup Process.md",
-    "Notes/Untitled.md",
     "Notes/Area",
     "Untitled.canvas",
     "_templates/Notes.md",
@@ -239,20 +238,12 @@
     "Notes/2023-04-16.md",
     "Notes/Area/Business.md",
     "Notes/Area/Developer.md",
-    "Notes/Area/Reader.md",
     "_templates/Task.md",
     "_templates/Resorces.md",
     "_templates/New Project.md",
-    "Notes/Increase LVM size in ubuntu.md",
-    "Notes/Ubuntu Storage Fill up.md",
     "_templates/New Area.md",
-    "Notes/Test.md",
-    "_templates/Test Note.md",
     "Notes",
-    "_templates/{{date}}-{{title}}.md",
-    "_templates/Daily Note.md",
     "_assets/Pasted image 20230408181823.png",
-    "2023-04-08.md",
     "Daily Notes",
     "_templates",
     "_assets"

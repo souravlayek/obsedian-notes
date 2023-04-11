@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Increase LVM size in ubuntu",
+      "path": "Notes/Increase LVM size in ubuntu.md"
+    },
+    {
+      "basename": "How to use Traefik",
+      "path": "Notes/How to use Traefik.md"
+    },
+    {
+      "basename": "Reverse Proxy Configuration",
+      "path": "Notes/Reverse Proxy Configuration.md"
+    },
+    {
+      "basename": "Ubuntu Storage Fill up",
+      "path": "Notes/Ubuntu Storage Fill up.md"
+    },
+    {
       "basename": "2023-W14",
       "path": "Daily Notes/Weekly/2023-W14.md"
+    },
+    {
+      "basename": "Learn Obsidian",
+      "path": "Notes/Learn Obsidian.md"
+    },
+    {
+      "basename": "Plugins for Obsidian",
+      "path": "Notes/Plugins for Obsidian.md"
+    },
+    {
+      "basename": "Self Improvement",
+      "path": "Notes/Area/Self Improvement.md"
     },
     {
       "basename": "Add user and delete user",

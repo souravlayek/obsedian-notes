@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Increase LVM size in ubuntu",
-      "path": "Notes/Increase LVM size in ubuntu.md"
+      "basename": "Docker",
+      "path": "Notes/Docker.md"
+    },
+    {
+      "basename": "Install Docker in Ubuntu",
+      "path": "Notes/Install Docker in Ubuntu.md"
+    },
+    {
+      "basename": "Setup User To Docker Group",
+      "path": "Notes/Setup User To Docker Group.md"
     },
     {
       "basename": "How to use Traefik",
@@ -11,6 +19,10 @@
     {
       "basename": "Reverse Proxy Configuration",
       "path": "Notes/Reverse Proxy Configuration.md"
+    },
+    {
+      "basename": "Increase LVM size in ubuntu",
+      "path": "Notes/Increase LVM size in ubuntu.md"
     },
     {
       "basename": "Ubuntu Storage Fill up",
